@@ -1,3 +1,5 @@
 Лабораторные работы по Информационной безопасности
 
-- [Лабораторная работа №1](https://github.com/a1unade/Cybersecurity/1)
+Вариант 6.
+
+- [Лабораторная работа №1](https://github.com/a1unade/Cybersecurity/tree/main/1)
