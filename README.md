@@ -14,3 +14,5 @@
 - [Лабораторная работа №6](https://github.com/a1unade/Cybersecurity/tree/main/6)
 
 - [Лабораторная работа №7](https://github.com/a1unade/Cybersecurity/tree/main/7)
+
+- [Лабораторная работа №9](https://github.com/a1unade/Cybersecurity/tree/main/9)
