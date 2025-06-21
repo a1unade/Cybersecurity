@@ -19,3 +19,5 @@
 - [Лабораторная работа №10](https://github.com/a1unade/Cybersecurity/tree/main/10)
 
 - [Лабораторная работа №11](https://github.com/a1unade/Cybersecurity/tree/main/11)
+
+- [Цикл работ по теме "Шифрование"](https://github.com/a1unade/Cybersecurity/tree/main/encrypting)
